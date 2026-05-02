@@ -14,16 +14,16 @@ Currently a first-year BSc IT student in Mumbai. I've shipped a deployed health 
 `Python` `Flask` `REST API Design` `Jinja2` `MVC Architecture`
 
 **Frontend**
-`HTML5` `CSS3` `JavaScript (ES6+)`
+`HTML5` `CSS3` `JavaScript`
 
 **Database & Tools**
-`MySQL` `Git` `GitHub` `Postman` `VS Code`
+`MySQL` `Git` `GitHub`  `VS Code`
 
 **AI & Productivity**
 `Prompt Engineering` `Claude AI` `ChatGPT` `Gemini` `AI-Augmented Development`
 
 **Learning Next**
-`React` `PostgreSQL` `Docker`
+`React` `PostgreSQL` 
 
 ---
 
