@@ -1,6 +1,6 @@
 # Hey, I'm Sumit Soni 👋
 
-### Full Stack Developer · AI-Augmented Builder · BSc IT @ KC College Mumbai
+### Full Stack Developer · AI-Augmented Builder 
 
 I build full-stack web apps with **Python** and **Flask**, and I use AI models (Claude, ChatGPT, Gemini) as development tools — writing precise prompts to architect faster, debug smarter, and ship real products.
 
