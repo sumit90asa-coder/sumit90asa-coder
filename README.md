@@ -38,7 +38,7 @@ Currently a first-year BSc IT student in Mumbai. I've shipped a deployed health 
 
 
 
-![](https://komarev.com/ghpvc/?username=sumit90asa-coder&label=Profile%20Views&color=0e75b6)
+ 
 
  
  
