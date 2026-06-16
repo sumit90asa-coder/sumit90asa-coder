@@ -36,8 +36,7 @@ Currently a first-year BSc IT student in Mumbai. I've shipped a deployed health 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Learning Next**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
  
 
 ## 🚀 Featured Projects
