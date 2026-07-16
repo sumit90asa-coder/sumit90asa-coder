@@ -1,0 +1,15 @@
+name: Profile Card
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify profile assets
+        run: |
+          test -f dark.svg
+          test -f light.svg
+          test -f portrait.txt

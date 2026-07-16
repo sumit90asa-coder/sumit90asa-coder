@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+<style>
+.art{fill:#8250df;font-size:6.2px;white-space:pre}
+.key{fill:#1a7f37;font-size:13px;font-weight:700}
+.val{fill:#1f2328;font-size:13px}
+.acc{fill:#0969da;font-size:13px}
+.wrn{fill:#9a6700;font-size:13px}
+.mut,.sec,.ttl{fill:#59636e;font-size:12px}
+.hdr{fill:#0969da;font-size:15px;font-weight:700}
+.cur{fill:#1a7f37;animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<rect x="1" y="1" width="978" height="618" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<path d="M1 13a12 12 0 0112-12h954a12 12 0 0112 12v25H1z" fill="#f6f8fa"/>
+<line x1="1" y1="38" x2="979" y2="38" stroke="#d0d7de"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="44" cy="20" r="6" fill="#ffbd2e"/><circle cx="64" cy="20" r="6" fill="#27c93f"/>
+<text x="490" y="24" class="ttl" text-anchor="middle">sumit90asa-coder — zsh — 90×26</text>
+<text x="30" y="66"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">neofetch --profile</tspan></text>
+<text x="30" y="92.0" class="art" xml:space="preserve" textLength="175.5" lengthAdjust="spacingAndGlyphs">                                   -----:---=</text>
+<text x="30" y="98.7" class="art" xml:space="preserve" textLength="191.1" lengthAdjust="spacingAndGlyphs">                               +**=-:-**==-=+---:</text>
+<text x="30" y="105.4" class="art" xml:space="preserve" textLength="198.9" lengthAdjust="spacingAndGlyphs">                             =+*=++*:=*+#%*++****=-</text>
+<text x="30" y="112.1" class="art" xml:space="preserve" textLength="206.7" lengthAdjust="spacingAndGlyphs">                           :==+++##+**=*###=:*+*##*+:</text>
+<text x="30" y="118.8" class="art" xml:space="preserve" textLength="214.5" lengthAdjust="spacingAndGlyphs">                          :==+***+****+*++**+*****##*+-</text>
+<text x="30" y="125.5" class="art" xml:space="preserve" textLength="222.3" lengthAdjust="spacingAndGlyphs">                         -+--*#***#%##%%#####*###****#%#-</text>
+<text x="30" y="132.2" class="art" xml:space="preserve" textLength="222.3" lengthAdjust="spacingAndGlyphs">                         -==*#%@@@##%%#####@@%**%%#*###+.</text>
+<text x="30" y="138.9" class="art" xml:space="preserve" textLength="214.5" lengthAdjust="spacingAndGlyphs">                         :*%%@#+-:....::::-=:: .=%@%%#-</text>
+<text x="30" y="145.6" class="art" xml:space="preserve" textLength="214.5" lengthAdjust="spacingAndGlyphs">                         :*@@*   .::::..:-:      -%@@%:</text>
+<text x="30" y="152.3" class="art" xml:space="preserve" textLength="210.6" lengthAdjust="spacingAndGlyphs">                          =%@:    ...::...        :*%+</text>
+<text x="30" y="159.0" class="art" xml:space="preserve" textLength="210.6" lengthAdjust="spacingAndGlyphs">                          -@=  :-==++:.::=++*+=-.  :%=</text>
+<text x="30" y="165.7" class="art" xml:space="preserve" textLength="210.6" lengthAdjust="spacingAndGlyphs">                          =#. .=+++##=-++--*##**=..:#*</text>
+<text x="30" y="172.4" class="art" xml:space="preserve" textLength="214.5" lengthAdjust="spacingAndGlyphs">                          --: :=++#@%==.-=%@@%#*===.+:.</text>
+<text x="30" y="179.1" class="art" xml:space="preserve" textLength="218.4" lengthAdjust="spacingAndGlyphs">                          ::  :===++=+= .-:--:  ..  .:..</text>
+<text x="30" y="185.8" class="art" xml:space="preserve" textLength="214.5" lengthAdjust="spacingAndGlyphs">                          .     :-::-:     .::-.   . *=</text>
+<text x="30" y="192.5" class="art" xml:space="preserve" textLength="218.4" lengthAdjust="spacingAndGlyphs">                          :-    :--+::. .---**+  .......</text>
+<text x="30" y="199.2" class="art" xml:space="preserve" textLength="202.8" lengthAdjust="spacingAndGlyphs">                               .:-=--+==*%+  ::..::.</text>
+<text x="30" y="205.9" class="art" xml:space="preserve" textLength="214.5" lengthAdjust="spacingAndGlyphs">                           .   .-+=-::-++-..+*=--:.  :-</text>
+<text x="30" y="212.6" class="art" xml:space="preserve" textLength="206.7" lengthAdjust="spacingAndGlyphs">                            -  .:=**++++++=-+#*-:.  -</text>
+<text x="30" y="219.3" class="art" xml:space="preserve" textLength="202.8" lengthAdjust="spacingAndGlyphs">                             -   :+=-:-===+-  -=-. .</text>
+<text x="30" y="226.0" class="art" xml:space="preserve" textLength="198.9" lengthAdjust="spacingAndGlyphs">                              :  .:::.:+*+-.  .:::.</text>
+<text x="30" y="232.7" class="art" xml:space="preserve" textLength="202.8" lengthAdjust="spacingAndGlyphs">                                  .::...:.   :-=++.+</text>
+<text x="30" y="239.4" class="art" xml:space="preserve" textLength="206.7" lengthAdjust="spacingAndGlyphs">                                . :--::=====*****: #+</text>
+<text x="30" y="246.1" class="art" xml:space="preserve" textLength="210.6" lengthAdjust="spacingAndGlyphs">                                - .=++*******+++:  ##-</text>
+<text x="30" y="252.8" class="art" xml:space="preserve" textLength="218.4" lengthAdjust="spacingAndGlyphs">                               %#   ::--++=====:  :#+=:=</text>
+<text x="30" y="259.5" class="art" xml:space="preserve" textLength="241.8" lengthAdjust="spacingAndGlyphs">                              +@%.  ..:--+====:  .**+=-+-**=-=</text>
+<text x="30" y="266.2" class="art" xml:space="preserve" textLength="261.3" lengthAdjust="spacingAndGlyphs">                            :.%@@=    :=---::::-:+#+====-+**--===-=</text>
+<text x="30" y="272.9" class="art" xml:space="preserve" textLength="276.9" lengthAdjust="spacingAndGlyphs">                       ==-:-.=@@@#-:..::-----==:+#+======-=#:-=====----</text>
+<text x="30" y="279.6" class="art" xml:space="preserve" textLength="292.5" lengthAdjust="spacingAndGlyphs">                   -::+*+=*: +@%@#==-:----===-.=*+=======-=%====-==----::-+</text>
+<text x="30" y="286.3" class="art" xml:space="preserve" textLength="300.3" lengthAdjust="spacingAndGlyphs">                -:-=+#%=-*+ :*%@#--=-----=-. .++---===-+=-+#==-=*+===+---:.:=</text>
+<text x="30" y="293.0" class="art" xml:space="preserve" textLength="308.1" lengthAdjust="spacingAndGlyphs">              :-=++=-*%+++::*%#@#.:: .:--.  -%@#+-:::-:++=#+--=#*+==*++==---::+</text>
+<text x="30" y="299.7" class="art" xml:space="preserve" textLength="312.0" lengthAdjust="spacingAndGlyphs">            :.*++**+--+%#==-+##%@- ..:--.  *@@%%%%#*=-:++*#--=***+=*+*#+==++=:.-</text>
+<text x="448" y="92" class="hdr">sumit soni</text>
+<line x1="448" y1="101.5" x2="940" y2="101.5" stroke="#d0d7de"/>
+<text x="448" y="117.5" class="key">Role</text><text x="540" y="117.5" class="val">Full Stack Developer</text>
+<text x="448" y="135.0" class="key">Edu</text><text x="540" y="135.0" class="val">B.Sc. Information Technology · Mumbai</text>
+<text x="448" y="152.5" class="key">Focus</text><text x="540" y="152.5" class="acc">Backend Engineering · Full Stack · AI</text>
+<text x="448" y="180.0" class="sec">~/stack</text>
+<text x="448" y="197.5" class="key">Lang</text><text x="540" y="197.5" class="val">Python · JavaScript · SQL</text>
+<text x="448" y="215.0" class="key">Backend</text><text x="540" y="215.0" class="val">Django · DRF · Flask · REST APIs</text>
+<text x="448" y="232.5" class="key">Frontend</text><text x="540" y="232.5" class="val">React · Vite · Tailwind CSS</text>
+<text x="448" y="250.0" class="key">Data</text><text x="540" y="250.0" class="val">PostgreSQL · MySQL · Redis</text>
+<text x="448" y="267.5" class="key">Tools</text><text x="540" y="267.5" class="val">Docker · Git · GitHub · Vercel</text>
+<text x="448" y="295.0" class="sec">~/projects</text>
+<text x="448" y="312.5" class="key">SecureMail</text><text x="540" y="312.5" class="wrn">Privacy-first web + mobile mail platform</text>
+<text x="448" y="330.0" class="key">CareConnect</text><text x="540" y="330.0" class="wrn">Healthcare and wellness technology platform</text>
+<text x="448" y="347.5" class="key">CryptoEvo</text><text x="540" y="347.5" class="wrn">Interactive cryptography learning platform</text>
+<text x="448" y="375.0" class="sec">~/highlights</text>
+<text x="448" y="392.5" class="key">Build</text><text x="540" y="392.5" class="val">Full-stack web and mobile product experiences</text>
+<text x="448" y="410.0" class="key">Explore</text><text x="540" y="410.0" class="acc">AI integrations · scalable APIs · open source</text>
+<text x="448" y="437.5" class="sec">~/reach</text>
+<text x="448" y="455.0" class="key">GitHub</text><text x="540" y="455.0" class="acc">github.com/sumit90asa-coder</text>
+<text x="448" y="472.5" class="key">LinkedIn</text><text x="540" y="472.5" class="acc">linkedin.com/in/sumit-soni-dev</text>
+<text x="30" y="596"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to internships / collaborations</tspan><tspan class="cur" dx="8">█</tspan></text></svg>
